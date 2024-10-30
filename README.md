@@ -1,2 +1,2 @@
-# Worder-6.6.6
-MY FIRST NOSKID SAFETY MALWARE. Made in C++. Works on Windows XP-11 x64.
+# Worder 6.6.6
+C++ short GDI trojan by Tubercomiosis99, password: WorderTrojan
